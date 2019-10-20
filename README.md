@@ -13,6 +13,7 @@ Homework of Software-Analysis-and-Testing
 - 提交原始代码和转换后的代码, 并说明哪些地方没有做到赋值后内存位置不变
 - 通过 Github 分享链接给助教来完成提交
 
+- 选用了 llvm & clang 对 c 语言程序进行 SSA 分析
 
 ### 原始代码
 - 文件: ssa.c
